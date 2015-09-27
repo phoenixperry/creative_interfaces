@@ -23,8 +23,22 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 
 
 ##### Exercise_01
-Buy a raspberry pi and set up ssh, vnc, sftp and wifi. Login remotely from your laptop or test top and from the command line run a python application you create that prints out 
+Buy a raspberry pi and set up ssh, vnc, sftp and wifi. 
+Setup VNC so it runs the vnc server on startup (it's in the vnc guide below) 
+
+All of these setups are documented here -> https://www.raspberrypi.org/documentation/remote-access/
+
+Also enable it so your pi auto logins in 
+http://www.instructables.com/id/Ultimate-Raspberry-Pi-Configuration-Guide/step6/Setting-up-Auto-login/
+
+A good IP scanner for mac is http://www.macupdate.com/app/mac/15326/ip-scanner
+
+A good vnc viewer for mac is https://www.realvnc.com/download/viewer/
+Just install the viewer, not the server. :) 
+
+Now, login remotely from your laptop or test top and from the command line run a python application you create that prints out 
 "Hello World." 
+
 
 #####Exercise_02
 Create an application that does the following: 
