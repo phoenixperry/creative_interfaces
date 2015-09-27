@@ -4,21 +4,23 @@
 ![alt text](http://www.phoenixperry.com/cats/interface.gif)  
 
 
-
 **Instructor:** Phoenix Perry
 
-**Email:** phoenix.perry@hku.nl 
+**Email:** contact@phoenixperry.com
 
 --
-###Assignments and notes will be posted weekly on github here:
+###Assignments, reading and notes will be posted weekly on github here:
 	https://github.com/phoenixperry/creative_interfaces 
 --
 
 ###Course Description: 
 
-This course inspires you to create connected applications. We will deep dive into the Raspberry Pi, Python, Unix, Arduino and Networking. The aim of this course it to deepen your understanding of programming and enrich your thinking around interface design. Topics will include, python, Unix, Arduino, Networking, Databases, Javascript with P5js and Noddejs. 
+This course inspires you to create connected applications. We will deep dive into the Raspberry Pi, Python, Unix, Arduino and Networking. The aim of this course it to deepen your understanding of programming and enrich your thinking around interface design. Topics will include, Python, Unix, Arduino, Networking, Databases, Javascript with P5js and Noddejs. 
 
 Conceptual terrain will cover HCI, Auditory displays, Tactile interfaces, Cognitive Science and Interface Design. 
+
+###Hours: 
+You are expected to spend 120 hours on this course during the term. This includes all lectures, meetings and assignments. 
 
 ---
 This class adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
@@ -31,14 +33,22 @@ Python 2.7.10
 
 ###Software:  
 
-* Brackets 
+* A python IDE. 
+	Some good ones 
+	* Pycharm 
+	https://www.jetbrains.com/pycharm/download/
+	* brackets 	
 	http://brackets.io/
+	* sublime text 
 
-* Nano 
+* Nano until we level up to Emacs 
 	http://www.nano-editor.org/
 
 * P5js 
 http://p5js.org/ 
+
+* Nodejs 
+https://nodejs.org/en/ 
 
 #####Books
 
@@ -65,14 +75,14 @@ https://www.codecademy.com/en/tracks/python
 
 * Midterm - 20% of the final grade 
 * Project Work - 40% of the final grade 
-* Final Exam - 40% of the final grade The homework assignments are required and will consist of programming assignments.
+* Final Project - 40% of the final grade The homework assignments are required and will consist of programming, reading and interface assignments.
 
 ###Labs
 Each week there will be a lab assignment here in a folder called lab
 
 Video documentation is suitable for turning in physical assignments 
 
-All code must be documented on github and your github repo most be mailed to the instructor within a week of the start of the term 
+All code must be documented on github and your github repo most be mailed to the instructor within a week of the start of the term.  
 
 ##How do I use github? 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
@@ -81,61 +91,11 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 
 #####Week One: Installation and Course Overview  
-* Read: Read:  Think Python Chapters 1 - 3 
+* Read: Think Python Chapters 1 - 3 
 * Do:  lab_01.md
+* Think and discuss: https://www.academia.edu/8548014/Emotion_and_Movement
  
-#####Week Two: Conditionals, Functions, Iteration Unix and Os Level control from Python  
-* Read:  Think Python Chapters 4 - 5  
+#####Week Two: Conditionals, Functions, Iteration, Recursion plus Unix and Os Level control from Python  
+* Read:  Think Python Chapters 4 - 5    
 * Do: lab_02.md
 
-#####Week Three:  Strings, Files, Lists  
-* Read:  Python for Informatics Chapter 3
-* Do: lab_03.md
-
-#####Week Four: Functions 
-* Watch:  Video 4
-* Read:  Python for Informatics Chapter 4
-* Do: lab_04.md
-
-#####Week Five: Iteration 
-* Watch:  Video 5
-* Read:  Python for Informatics Chapter 5
-* Do: lab_05.md
-
-
-#####Week Six: Strings 
-* Watch:  Video 6
-* Read:  Python for Informatics Chapter 6
-* Do: lab_06.md
-
-#####Week Seven: Files  
-* Watch:  Video 7
-* Read:  Python for Informatics Chapter 7
-* Do: lab_07.md
-
-#####Week Eight: Lists   
-* Watch:  Video 8
-* Read:  Python for Informatics Chapter 8
-* Do: lab_08.md
-
-#####Week Nine: Dictionaries & Tuples 
-* Watch:  Video 8, Video 9 
-* Read:  Python for Informatics Chapter 8 & 9 
-* Do: lab_08.md
-
-#####Week Ten: Classes and Objects     
-* Read:  Think Python Chapter 16 
-* Do: lab_10.md
-
-#####Week Eleven: Classes and Objects 
-* Read:   Think Python Chapter 17  
-* Do: lab_11.md
-
-#####Week Twelve: Review  
-* Do: lab_12.md
-
-
-Note: I am leaving the HKU on Sept 31st. After that you'll have a new teacher. I'm joining Goldsmiths at the University of London. After then, find me at @phoenixperry on twitter 
-
-![alt text](http://www.phoenixperry.com/cats/catLeaving.gif)  
- 
