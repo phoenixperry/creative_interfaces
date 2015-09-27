@@ -91,11 +91,9 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 
 #####Week One: Installation and Course Overview  
-* Read: Think Python Chapters 1 - 3 
+* Read: Think Python Chapters 1 - 2
+* Read: Raspberry Pi Documentation 
+https://www.raspberrypi.org/documentation/  
 * Do:  lab_01.md
 * Think and discuss: https://www.academia.edu/8548014/Emotion_and_Movement
- 
-#####Week Two: Conditionals, Functions, Iteration, Recursion plus Unix and Os Level control from Python  
-* Read:  Think Python Chapters 4 - 5    
-* Do: lab_02.md
 
