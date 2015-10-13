@@ -25,5 +25,3 @@ Trait | Very Good | Good | Acceptable | Unsatisfactory
 Create a user interface in Arduino using serial with a button that prints out a bit of a story you write every time the user presses it. 
 There should be at least 3 button presses / sections to your story. 
 
-###Exercise 2
-

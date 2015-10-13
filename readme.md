@@ -97,3 +97,18 @@ https://www.raspberrypi.org/documentation/
 * Do:  lab_01.md
 * Think and discuss: https://www.academia.edu/8548014/Emotion_and_Movement
 
+#####Week One: Installation and Course Overview  
+* Read: Think Python Chapters 1 - 2
+* Read: Raspberry Pi Documentation 
+https://www.raspberrypi.org/documentation/  
+* Do:  lab_01.md
+* Think and discuss: https://www.academia.edu/8548014/Emotion_and_Movement
+
+#####Week Two: Installation and Course Overview  
+* Read: Think Python Chapters 3 - 4
+* Read: Serial data in Python 
+http://playground.arduino.cc/Interfacing/Python 
+https://www.raspberrypi.org/documentation/  
+* Do:  lab_02.md
+* Think and discuss: http://www.deepfun.com/serious-games-in-defense-of-fun/
+
